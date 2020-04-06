@@ -1,0 +1,39 @@
+ table, th, tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+    font-size: 15px;
+                }
+                
+body {
+    background-color: orange;
+    }
+
+.modrabarva {
+    background-color: blue;
+      }
+      
+#hneda {
+    color: brown;
+    }
+     
+#zluta {
+    color: yellow;
+    }  
+    
+.img {
+    width: 230px;
+    height: 160px
+    } 
+
+div div div div h3 {
+    color: red;
+    text-align: center;
+      }
+      
+body div p {
+    color:burlywood;
+     }
+
+     
+
